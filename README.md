@@ -331,7 +331,7 @@ copies or substantial portions of the Software.
 
 - GitHub: [@HarxSan](https://github.com/HarxSan)
 - LinkedIn: [Connect with HarxSan](https://www.linkedin.com/in/harii-sankar-s-a0b11925a/)
-- Email: harxsan@example.com
+- Email: hariisankar720@gmail.com
 
 ### 🤝 Contributors
 
